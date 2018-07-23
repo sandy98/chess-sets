@@ -1,4 +1,5 @@
-[!White King](https://raw.githubusercontent.com/sandy98/chess-sets/master/test/wk.png)   [!Black King](https://raw.githubusercontent.com/sandy98/chess-sets/master/test/bk.png)
+![White King](https://raw.githubusercontent.com/sandy98/chess-sets/master/test/wk.png)   
+![Black King](https://raw.githubusercontent.com/sandy98/chess-sets/master/test/bk.png)
 
 # chess-sets
 6 sets of chess figures encoded as base 64 strings suited to be used as src for <img> tags, stuffed in 'chessSets' object.
