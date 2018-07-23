@@ -23,4 +23,4 @@ The file provides a single object `chessSets`, which contains 6 keys: `alt1, def
 
 And that's pretty much all. An example can be found inside the test directory.
 
-The images where generated using my very own [Bluestar](https://github.com/sandy98/bluestar), a tiny tool I developed to encode image files into base 64 strings. In fact, I developed precisely to generate chess-sets.js, and it did nicely.
+The images where generated using my very own [Bluestar](https://github.com/sandy98/bluestar), a tiny tool I developed to encode image files into base 64 strings. In fact, I developed it precisely to generate chess-sets.js, and it did nicely.
