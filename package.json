@@ -1,0 +1,14 @@
+{
+  "name": "chess-sets",
+  "version": "1.0.0",
+  "description": "6 sets of chess figures in data format suited to be used as src for <img> tags, stuffed in 'chessSets' object.",
+  "main": "dist/chess-sets.js",
+  "repository": "https://github.com/sandy98/chess-sets",
+  "author": "Domingo E. Savoretti",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start-test": "cd test && npx http-server"
+  }
+}
+
