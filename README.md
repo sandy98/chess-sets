@@ -20,6 +20,20 @@ The file provides a single object `chessSets`, which contains 6 keys: `alt1, def
     imgK.src = chessSets.default.K;
 </script>
 ```
+or, when using some framework/library along with a bundler, let's say, for instance, `react.js`
+
+```javascript
+import { Component } from 'react'
+import chessSets from 'chess-sets'
+...
+render() {
+  return (
+    <div>
+      <img src={chessSets.default.K}/>
+    </div>
+  )
+}
+```
 
 And that's pretty much all. An example can be found inside the test directory.
 
