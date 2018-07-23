@@ -20,8 +20,16 @@ The file provides a single object `chessSets`, which contains 6 keys: `alt1, def
     imgK.src = chessSets.default.K;
 </script>
 ```
-or, when using some framework/library along with a bundler, let's say, for instance, `react.js`
+or, when using some framework/library along with a bundler, let's say, for instance, `react.js`, first get npm or yarn to download and add the package to the project:
 
+```bash
+npm install chess-sets
+``` 
+or 
+```bash
+yarn add chess-sets
+``` 
+and then:
 ```javascript
 import { Component } from 'react'
 import chessSets from 'chess-sets'
